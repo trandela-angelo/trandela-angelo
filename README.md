@@ -31,14 +31,6 @@ Proficient in **HTML, CSS, JavaScript/TypeScript**, backend development with **P
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=radical" width="40%" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/angelo-trandela">LinkedIn</a> •
