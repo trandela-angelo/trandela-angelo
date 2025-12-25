@@ -34,7 +34,7 @@ Proficient in **HTML, CSS, JavaScript/TypeScript**, backend development with **P
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/angelo-trandela">LinkedIn</a> •
-  <a href="https://trandela-angelo.github.io">Portfolio</a>
+  <a href="https://trandelaangelo.vercel.app">Portfolio</a>
 </p>
 
 ---
